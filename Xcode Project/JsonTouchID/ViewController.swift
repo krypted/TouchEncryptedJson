@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
 //  JsonTouchID
-//
-//  Created by Muhammad Afham on 2/9/22.
+//  Change "Secret password" to your own key
 //
 
 import Cocoa
