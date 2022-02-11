@@ -1,8 +1,7 @@
 //
 //  AppDelegate.swift
 //  JsonTouchID
-//
-//  Created by Muhammad Afham on 2/9/22.
+//  Uses RNCryptor to interface with the TouchID framework
 //
 
 import Cocoa
